@@ -33,5 +33,5 @@ An easy-to-use online translation tool to translate Hindi and Bangla language in
 
 <p align="center">
   <b>© Copyright 2026 Kudmali Translate</b><br>
- Founded and Developed with ❤️ by <a href="https://somnathmahato.in/">Somnath Mahato</a>
+ Founded and Developed with ❤️ by <a href="https://somnathmahato.in/"><b>Somnath Mahato</b></a>
 </p>
