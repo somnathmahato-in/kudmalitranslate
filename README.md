@@ -25,7 +25,7 @@ An easy-to-use online translation tool to translate Hindi and Bangla language in
 
 ## 📄 Licensing & Legal Notice
 
-- **Documentation & Links:** Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Documentation & Links:** Licensed under [CC BY-SA 4.0](https://github.com/somnathmahato-in/kudmalitranslate/tree/main?tab=License-1-ov-file)
 - **App Source Code:** Proprietary & Private (Hosted in a secure private repository)
 - **Logo & Branding:** © Copyright 2026 Kudmali Translate. All Rights Reserved.
 
@@ -33,5 +33,5 @@ An easy-to-use online translation tool to translate Hindi and Bangla language in
 
 <p align="center">
   <b>© Copyright 2026 Kudmali Translate</b><br>
-  Developed with ❤️ by <b>Somnath Mahato</b>
+  Developed with ❤️ by [<b>Somnath Mahato</b>](https://somnathmahato.in)
 </p>
